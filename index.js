@@ -46,5 +46,4 @@
   console.log('./home/././././folder1')
   console.log('./home/folder1')
 
-// This code is contributed by mukesh07.
 
