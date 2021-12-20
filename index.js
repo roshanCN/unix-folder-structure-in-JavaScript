@@ -43,7 +43,7 @@
 	let Str = "./home/././folder1/folder2/../folder3";
 	let res = simplify(Str);
 	console.log(res);
-  console.log('./home/././././folder1')
-  console.log('./home/folder1')
+  console.log(simplify("./home/././././folder1"))
+  console.log(simplify('./home/folder1'))
 
 
